@@ -1,0 +1,42 @@
+main{
+    width: 80%;
+    margin: 0 auto;
+    margin-top: 2rem;
+    padding-top: 2em;
+    padding-bottom: 2em;
+    text-align: center;
+    /* display: flex; */
+  place-items: center;
+  align-items: center;
+  align-content: center;
+
+  /* Nossa aplicação serve para serve para facilitar a economia domestica de uma ou mais residencias, organizando os gastos em diferentes categorias, como aparelhos, produtos gastos, etc */
+
+
+font-family: 'Sen';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 40px;
+text-align: center;
+
+color: #5075BF;
+
+
+  
+  
+
+}
+h1{
+  /* TetoFinanças */
+
+font-family: 'Secular One';
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 60px;
+
+color: #5075BF;
+
+
+}

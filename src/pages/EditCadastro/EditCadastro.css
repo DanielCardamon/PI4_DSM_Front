@@ -1,0 +1,28 @@
+form {
+  width: 350px;
+  margin: 0 auto;
+  text-align: left;
+  /* display: flex; */
+  place-items: center;
+  justify-content: center;
+  align-items: center;
+
+}
+
+input,
+textarea {
+  display: block;
+  margin-top: 10px;
+  box-sizing: border-box;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  color: #5075BF;
+  width: 340px;
+  height: 61px;
+  background: whitesmoke;
+  border: 2px solid #1C418C;
+  border-radius: 5px;
+
+}

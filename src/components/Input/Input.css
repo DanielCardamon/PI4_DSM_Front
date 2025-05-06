@@ -1,0 +1,9 @@
+input::after, input::before{
+    border: none !important;
+}
+input:focus{
+    border: none !important;
+}
+input:focus-visible{
+    border: none !important;
+}

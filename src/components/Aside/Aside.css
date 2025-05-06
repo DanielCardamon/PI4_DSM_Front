@@ -1,0 +1,13 @@
+aside{
+    display: flex;
+    height: 25rem;
+    z-index: 1;
+    position: fixed;
+    width: 20rem;
+    background-color: var(--pal3);
+    text-align: start;
+    border-radius: 1rem;
+}
+.container{
+    width:10rem;
+}

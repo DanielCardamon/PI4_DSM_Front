@@ -1,0 +1,59 @@
+form{
+    width: 500px;
+    margin: 0 auto;
+    text-align: left;
+    /* display: flex; */
+  place-items: center;
+
+}
+
+input::placeholder{
+    
+    color: var(--pal1);
+    font-size: 14px;
+}
+
+
+input{
+    background-color: white;
+    border: none;
+  
+    margin-top: 10px;
+   
+}
+.Dinput>#lembre{
+    width: 2rem;
+}
+input::-ms-value{
+    padding-left:4rem;
+    color: var(--pal1);
+    font-size: 14px;
+}
+.img_log{
+    margin-left: 7px;
+}
+.Dinput{
+    width: 22rem;
+    
+    border: 2px solid var(--pal2);
+    border-radius: 10px;
+    overflow: hidden;
+}
+
+.login{
+    color:var(--pal2);
+    text-transform: uppercase;
+    font-family: "Inter";
+    font-size: 12px;
+
+}
+.log{
+    display: inline;
+    border: none;
+    width: 84%;
+    margin-top: 0;
+   
+    margin-left: 1rem;
+    justify-content: flex-end;
+    background-color: white;
+}

@@ -1,0 +1,13 @@
+form {
+  width: 350px;
+  margin: 0 auto;
+  text-align: left;
+  /* display: flex; */
+  place-items: center;
+  justify-content: center;
+  align-items: center;
+
+}
+#data{
+  width: 10rem;
+}

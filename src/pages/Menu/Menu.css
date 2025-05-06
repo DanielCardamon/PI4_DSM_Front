@@ -1,0 +1,65 @@
+:root {
+  --pal1: #5075BF;
+  --pal2: #1C418C;
+  --pal3: #A9D9D9;
+  --pal4: #99A6E8;
+  --pal5: #058ED9;
+  --pal6: #E9EE1E;
+
+}
+
+.menuback {
+  background: var(--pal2);
+  border-radius: 10px;
+  margin: 2em;
+  padding: 1em;
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(1px, 1fr));
+  grid-gap: 10px;
+  justify-content: space-around;
+  min-height: 50px;
+}
+
+.item {
+  min-height: 50px;
+  border-radius: 10px;
+  list-style: none;
+  
+  justify-content: space-around;
+  color: #fff;
+  text-decoration: none;
+  font-weight: bold;
+  margin: 1px;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 19px;
+  font-style: normal;
+}
+
+.enderecoback {
+  background: var(--pal3);
+  border-radius: 10px;
+ 
+  
+}
+
+.itemendereco {
+  min-height: 50px;
+  border-radius: 10px;
+  list-style: none;
+ 
+  justify-content: space-around;
+  color: #000000;
+  text-decoration: none;
+  font-weight: normal;
+  margin: 1px;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 19px;
+  font-style: normal;
+}

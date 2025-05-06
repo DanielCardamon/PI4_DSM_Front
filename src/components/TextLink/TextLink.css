@@ -1,0 +1,12 @@
+.spanM{
+    display: block;
+    font-family: inter, arial, sans-serif;
+    font-size: 13px;
+    gap: 2px;
+    color: var(--pal2);
+}
+.spanL{
+    margin-left: 10px;
+    text-decoration: underline !important;
+    font-weight: bold;
+}

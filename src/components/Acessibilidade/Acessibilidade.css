@@ -1,0 +1,8 @@
+.acessibilidade{
+    cursor: pointer;
+    position: fixed;
+    right: 0;
+    top: 55%;
+    z-index: 999;
+    margin-right: 10px;
+}

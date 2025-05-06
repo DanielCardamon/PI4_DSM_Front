@@ -1,0 +1,51 @@
+#home{
+   padding-top: 10px;
+   padding-left: 10px;
+    display: flex;
+   
+    
+}
+
+#tipo{
+    display: flex !important;
+    margin-bottom: 0 !important;
+    justify-content: start;
+   margin-left: 5px;
+    margin-top: 10px;
+    padding-left: 1px;
+    color: black;
+    font-size: 0.7em;
+    font-weight: bold;
+}
+#novo{
+   
+    margin-top:100px;
+   transform: scale(400%);
+}
+ .dados{
+    display: flex !important;
+    margin-bottom: 0 !important;
+   margin-left: 5px;
+    justify-content: start;
+    color: black;
+    font-size: 0.5em;
+
+}
+.enderecos{
+    width: 12rem;
+    height: 15rem;
+    background-color: var(--pal3);
+    border: 2px solid var(--pal1);
+    border-radius: 5%;
+}
+.addenderecos{
+    width: 12rem;
+    height: 15rem;
+    border: 2px solid var(--pal1);
+    border-radius: 5%;
+}
+.center{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

@@ -1,0 +1,59 @@
+:root {
+    --pal1: #5075BF;
+    --pal2: #1C418C;
+    --pal3: #A9D9D9;
+    --pal4: #99A6E8;
+    --pal5: #058ED9;
+    --pal6: #E9EE1E;
+
+}
+
+.grid {
+    display: grid;
+    
+    justify-content: space-around;
+    margin: 5px;
+    padding: auto;
+
+}
+
+.item {
+    list-style: none;
+    
+    justify-content: space-around;
+    color: #fff;
+    text-decoration: none;
+    margin: 5px;
+    padding: auto;
+}
+
+
+.menuitem {
+    list-style: none;
+    
+    justify-content: space-around;
+    @media screen {
+        
+    }
+}
+
+.menuitem li {
+    list-style: none;
+    position: relative;
+    margin: 20px 30px;
+}
+
+.menuitem li {
+    list-style: none;
+    position: relative;
+    padding: 20px 30px;
+}
+
+
+.menuitem li a {
+    list-style: none;
+    color: #fff;
+    text-decoration: none;
+    font-weight: bold;
+
+}

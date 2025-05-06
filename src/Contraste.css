@@ -1,0 +1,55 @@
+
+
+:root{
+    --pal1:#5075BF;
+    --pal2:#1C418C;
+    --pal3:#A9D9D9;
+    --pal4:#99A6E8;
+    --pal5:#058ED9;
+    --pal6:#E9EE1E;
+   
+  }
+  
+  * {
+    margin: 0;
+    justify-content: center;
+    align-items: center;
+    font-family: "Sen", Arial, Helvetica, sans-serif;
+    text-decoration: none !important;
+    background-color: #000 !important;
+    color: white;
+    
+  }
+  h1{
+    /* TetoFinanças */
+  
+  font-family: 'Secular One';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 40px;
+  line-height: 60px;
+  text-decoration: none;
+  color: white !important;
+  }
+  nav, footer, .menuback, .item, .offCanvas{
+    border: 1px solid #fff;
+    border-radius: 0.3rem;
+  }
+
+button {
+  border: 1px solid #fff;
+    font-family: 'Inter',Arial, Helvetica, sans-serif !important;
+    font-style: normal !important;
+    font-weight: 600 !important;
+    font-size: 0.5em !important;
+    margin: 1rem !important;
+    box-sizing: border-box !important;
+    width: 6rem !important;
+    height: 3rem !important;
+    background-color: var(--pal6) !important;
+    border: 1px solid white !important;
+    border-radius: 20rem !important;
+    color: #000 !important;
+    
+  }
+  

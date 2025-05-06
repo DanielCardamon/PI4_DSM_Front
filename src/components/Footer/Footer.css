@@ -1,0 +1,24 @@
+footer {
+    display: flex;
+
+    height: 10rem;
+    width: 100%;
+    bottom: 100rem;
+
+    justify-content: center;
+    align-items: center;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 0.8em;
+    
+    color: #FFFFFF;
+    background: var(--pal4);
+
+    /* Rectangle 119 */
+
+
+
+
+}
